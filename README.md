@@ -22,6 +22,6 @@
     
 </p>
 <p align="center">
-    <b>TABLET GÖRÜNÜMÜ:</b>
+    <b>TABLET GÖRÜNÜMÜ:</b><br>
     <img src="assets/homePageTablet_ui.png" style="border-radius: 10px;margin:10px " width="600">
 </p>
