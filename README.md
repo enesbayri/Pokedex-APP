@@ -15,6 +15,7 @@
 
 <br><hr><br>
 <p align="center">
+    <b>MOBİL GÖRÜNÜMÜ:</b><br>
     <br>
     <img src="assets/homePage_ui.png" style="border-radius: 10px;margin:10px " width="200">
     <img src="assets/detailPage_ui.png" style="border-radius: 10px;margin:10px " width="200">
