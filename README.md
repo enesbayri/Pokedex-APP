@@ -19,6 +19,9 @@
     <img src="assets/homePage_ui.png" style="border-radius: 10px;margin:10px " width="200">
     <img src="assets/detailPage_ui.png" style="border-radius: 10px;margin:10px " width="200">
     <br><hr><br>
+    
+</p>
+<p align="center">
     <b>TABLET GÖRÜNÜMÜ:</b>
     <img src="assets/homePageTablet_ui.png" style="border-radius: 10px;margin:10px " width="600">
 </p>
